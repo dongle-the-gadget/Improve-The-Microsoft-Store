@@ -39,6 +39,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | syncoinapp |
 | Complete Tutor for Blender | [9PBD30CJDS94](https://www.microsoft.com/store/productId/9PBD30CJDS94) | Spam | | syncoinapp |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | Lockie studio |
+| Cool File Viewer | [9N29TP7ZMKV3](https://www.microsoft.com/store/productId/9N29TP7ZMKV3) | Spam | | Cool File Viewer |
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | ENAGA |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money | winuwp |
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | Teodorovici |
