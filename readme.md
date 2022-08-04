@@ -12,7 +12,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 # What counts as misleading?
 - third party app that presents itself as the official client or service
 - presents itself as free but requires the user to pay to access the features once downloaded
-- fork of an oss project that doesn't add any value over the original and charges unsuspecting users
+- fork of an OSS project that doesn't add any value over the original and charges unsuspecting users
 
 # Contributing to this list
 Contributions are welcome. Please note that the list is sorted by reason so please try to stick with this pattern when adding a new app.
@@ -66,7 +66,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | My Private Diary Notebook - Private notes, group management note content, password note diary | [9N1VCGG6816V](https://www.microsoft.com/store/productId/9N1VCGG6816V) | Duplicate | Duplicate of Daily Notebook - Simple Memo Diary and Photo [9PJMWXKTNP45](https://www.microsoft.com/store/productId/9PJMWXKTNP45) | YongWenHu |
 
 # Devs who publish the same app on multiple accounts
-There are a number of bad actors in the store who publish the same application on different accounts. In addition to tracking the individual apps, we're intrested in tracking the publishers behind them and grouping them together.
+There are a number of bad actors in the store who publish the same application on different accounts. In addition to tracking the individual apps, we're interested in tracking the publishers behind them and grouping them together.
 | Publishers |
 |----------------|
 | [YONGPINGAPPS](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YONGPINGAPPS), [LiRenApps](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=LiRenApps), [YongWenHu](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YongWenHu), [ZHYAPPS](https://apps.microsoft.com/store/search?hl=en&publisher=ZHYAPPS)|
